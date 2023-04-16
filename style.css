@@ -1,0 +1,31 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+.banner{
+    height: 80vh;
+    color: var(--white-0);
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgb(196, 27, 45);
+}
+h1{
+    font-size: 50px;
+    color: white;
+    font-family: 'Shantell Sans', cursive;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color: white;
+    font-family: 'Shantell Sans', cursive;
+}

@@ -2,14 +2,11 @@
     font-family: 'Roboto Slab', serif;
 }
 .banner{
-    height: 80vh;
-    color: var(--white-0);
+    height: 70vh;
     position: relative;
     display: flex;
     flex-direction: column;
-    -webkit-box-pack: center;
     justify-content: center;
-    -webkit-box-align: center;
     align-items: center;
     background-color: rgb(196, 27, 45);
 }
@@ -27,6 +24,12 @@ h1{
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     color: white;
+    font-family: 'Shantell Sans', cursive;
+}
+nav{
+    background-color: rgb(196, 27, 45);
+}
+.nav-item{
     font-family: 'Shantell Sans', cursive;
 }
 .target-heading{

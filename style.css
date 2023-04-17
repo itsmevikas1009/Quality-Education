@@ -13,7 +13,6 @@
 .heading{
     font-size: 50px;
     color: white;
-    font-family: 'Shantell Sans', cursive;
 }
 .banner-p{
     margin-top: 0;
@@ -24,17 +23,12 @@
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     color: white;
-    font-family: 'Shantell Sans', cursive;
 }
 nav{
     background-color: rgb(196, 27, 45);
 }
-.nav-item{
-    font-family: 'Shantell Sans', cursive;
-}
 .target-heading{
     font-size: 20px;
-    font-family: 'Shantell Sans', cursive;
     font-weight: 600;
 }
 figcaption{
@@ -44,5 +38,4 @@ figcaption{
     background-color: rgb(196, 27, 45);
     margin-bottom: 5px;
     color: white;
-    font-family: 'Shantell Sans', cursive;
 }

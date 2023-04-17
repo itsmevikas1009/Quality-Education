@@ -18,7 +18,7 @@ h1{
     color: white;
     font-family: 'Shantell Sans', cursive;
 }
-p{
+.banner-p{
     margin-top: 0;
     margin-bottom: 1rem;
     display: block;
@@ -28,4 +28,7 @@ p{
     margin-inline-end: 0px;
     color: white;
     font-family: 'Shantell Sans', cursive;
+}
+.target-heading{
+    font-size: 20px;
 }
